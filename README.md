@@ -1,5 +1,19 @@
+<h1 align="center"><a name="back-to-top"></a> 🐲FAETERJ-Petrópolis🐲</h1> 
+
+<h2   align="center">🎓
+    Graduação em Tecnologia da Informação e Comunicação💻
+</h2>
+ <p align="center">
+    <img src="https://github.com/marcosbarker/exerc.poo.func.03/blob/main/img/faeterj-logo.jpg" alt="faeterj-logo">
+</p>
+<h2   align="center">
+    TCD - Tecnologia de Comunicação de Dados <br> Professor Alberto Angonese
+</h2>
+<br>
+<br>
+
 # Protobuf-CSharp
-Protobuf em C# - Implementação do exemplo base da documentação Developers Google
+Protobuf em C# - Implementação do exemplo base da documentação Developers Google, exercício proposto em aula.
 
 This directory contains the C# Protocol Buffers runtime library.
 
