@@ -111,3 +111,5 @@ special support in the new code
 - The old project supported some older platforms (such as older
 versions of Silverlight) which are not currently supported in the
 new project
+<br><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[**Back to top**](#back-to-top)⬆️
