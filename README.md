@@ -12,14 +12,14 @@
 <br>
 <br>
 
-# Protobuf-CSharp
+## Protobuf-CSharp
 Protobuf em C# - Implementação do exemplo base da documentação Developers Google, exercício proposto em aula.
 
 This directory contains the C# Protocol Buffers runtime library.
 
-Usage
-=====
-
+<details>
+    <summary><h2>Instalação e Uso</h2></summary>
+    <br>
 The easiest way how to use C# protobufs is via the `Google.Protobuf`
 NuGet package. Just add the NuGet package to your VS project.
 
@@ -111,5 +111,6 @@ special support in the new code
 - The old project supported some older platforms (such as older
 versions of Silverlight) which are not currently supported in the
 new project
+    </details>
 <br><br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[**Back to top**](#back-to-top)⬆️
